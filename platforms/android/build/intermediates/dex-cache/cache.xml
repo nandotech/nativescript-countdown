@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Fernando\AppData\Local\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="C:\VSCode\NativeScript-Basic\platforms\android\build\intermediates\pre-dexed\debug\support-annotations-23.3.0_26d57d4a5a774114d8d745a1735d6663b15431f2.jar" />
+    </item>
+    <item
+        jar="C:\VSCode\NativeScript-Basic\platforms\android\libs\nativescript.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="57b3fa4e07f606555cab1d8373106c80acd79f64">
+        <dex dex="C:\VSCode\NativeScript-Basic\platforms\android\build\intermediates\pre-dexed\debug\nativescript_bf23beb5793eba80ed9fcd98fc3fc9bf4083de94.jar" />
+    </item>
+
+</items>
